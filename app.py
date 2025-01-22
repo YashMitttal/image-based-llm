@@ -1,7 +1,7 @@
 """
 Module for performing image-based analysis using OpenAI's GPT-4O model.
 
-This module provides a robust implementation for processing and analyzing images
+This module provides an implementation for processing and analyzing images
 using OpenAI's capabilities. It supports multiple image input formats,
 maintains chat history, and offers configurable parameters.
 """
